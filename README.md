@@ -1,4 +1,4 @@
-# Bank Loan Predictios Using AI
+# Bank Loan Predictions Using AI
 
 Group Members: Clinton Idehen, Simon Gomes, Yichao Li, and Joey Z
 
